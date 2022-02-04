@@ -1,5 +1,5 @@
 # todo
-A simple Todo API with Go 
+A simple Todo API using Go 
 
 
 The app has been created using : 
